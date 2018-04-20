@@ -1,0 +1,12 @@
+C:\Users\renic\Documents\Dev\GitHub\APIBrasil\APIBrasil\bin\Debug\netcoreapp2.0\APIBrasil.deps.json
+C:\Users\renic\Documents\Dev\GitHub\APIBrasil\APIBrasil\bin\Debug\netcoreapp2.0\APIBrasil.runtimeconfig.json
+C:\Users\renic\Documents\Dev\GitHub\APIBrasil\APIBrasil\bin\Debug\netcoreapp2.0\APIBrasil.runtimeconfig.dev.json
+C:\Users\renic\Documents\Dev\GitHub\APIBrasil\APIBrasil\bin\Debug\netcoreapp2.0\APIBrasil.dll
+C:\Users\renic\Documents\Dev\GitHub\APIBrasil\APIBrasil\obj\Debug\netcoreapp2.0\APIBrasil.csprojResolveAssemblyReference.cache
+C:\Users\renic\Documents\Dev\GitHub\APIBrasil\APIBrasil\obj\Debug\netcoreapp2.0\APIBrasil.csproj.CoreCompileInputs.cache
+C:\Users\renic\Documents\Dev\GitHub\APIBrasil\APIBrasil\obj\Debug\netcoreapp2.0\APIBrasil.AssemblyInfoInputs.cache
+C:\Users\renic\Documents\Dev\GitHub\APIBrasil\APIBrasil\obj\Debug\netcoreapp2.0\APIBrasil.AssemblyInfo.cs
+C:\Users\renic\Documents\Dev\GitHub\APIBrasil\APIBrasil\bin\Debug\netcoreapp2.0\APIBrasil.pdb
+C:\Users\renic\Documents\Dev\GitHub\APIBrasil\APIBrasil\obj\Debug\netcoreapp2.0\APIBrasil.dll
+C:\Users\renic\Documents\Dev\GitHub\APIBrasil\APIBrasil\obj\Debug\netcoreapp2.0\APIBrasil.pdb
+C:\Users\renic\Documents\Dev\GitHub\APIBrasil\APIBrasil\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
